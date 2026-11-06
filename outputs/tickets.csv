@@ -1,0 +1,29 @@
+Ticket ID,Complaint,Category,Priority,Department,Model,Confidence,Urgency Model,Urgency Confidence,Status,Date/Time
+TKT-10001,I did not like this product i want my money back,Checking or savings account,Low,Retail Banking Team,GRU,34.8%,Not recorded,,Manual Review Required,2026-10-08 12:24:41
+TKT-10002,someone used  my credit card and withdraw money,Credit card,Low,Cards & Payments Team,GRU,66.5%,Not recorded,,Automatically Routed,2026-10-08 12:32:24
+TKT-10003,someone used  my credit card and withdraw money,Credit card,Low,Cards & Payments Team,LSTM,35.0%,Not recorded,,Manual Review Required,2026-10-08 12:33:17
+TKT-10004,my account is hacked help me,"Money transfer, virtual currency, or money service",High,Payments Team,LSTM,23.6%,Not recorded,,Manual Review Required,2026-10-08 12:34:25
+TKT-10005,Someone hacked my checking account and made unauthorized transfers. My bank will not return my money and I cannot log in,"Money transfer, virtual currency, or money service",High,Payments Team,LSTM,69.0%,Not recorded,,Automatically Routed,2026-10-08 12:43:55
+TKT-10006,"I was charged twice for the same transaction. Please check your billing system and refund the extra amount.
+ Copy complaint",Credit card,Low,Triage Desk (manual review),LSTM,37.7%,Not recorded,,Manual Review Required,2026-10-15 11:56:39
+TKT-10007,"I was charged twice for the same transaction. Please check your billing system and refund the extra amount.
+ ",Credit card,Low,Triage Desk (manual review),LSTM,37.0%,Not recorded,,Manual Review Required,2026-10-15 11:56:57
+TKT-10008,"I was charged twice for the same transaction. Please check your billing system and refund the extra amount.
+ ",Credit card,Low,Triage Desk (manual review),LSTM,37.0%,Not recorded,,Manual Review Required,2026-10-15 11:56:58
+TKT-10009,"I was charged twice for the same transaction. Please check your billing system and refund the extra amount.
+ ",Checking or savings account,Low,Triage Desk (manual review),GRU,43.2%,Not recorded,,Manual Review Required,2026-10-15 11:57:54
+TKT-10010,"someone steal my bank account password and now he is transferring all my  money right now, Manual Review Required, 2026-10-25 09:25:18","Money transfer, virtual currency, or money service",High,Triage Desk (manual review),GRU,77.5%,Not recorded,,Bidirectional LSTM,49.7%
+TKT-10011,"someone steal my bank account password and now he is transferring all my  money right now, Manual Review Required, 2026-10-25 09:28:17","Money transfer, virtual currency, or money service",High,Triage Desk (manual review),GRU,77.5%,Not recorded,,Bidirectional LSTM,49.7%
+TKT-10012,"someone steal my bank account password and now he is transferring all my  money right now, Manual Review Required, 2026-10-25 09:28:23","Money transfer, virtual currency, or money service",High,Triage Desk (manual review),LSTM,47.8%,Not recorded,,Bidirectional LSTM,49.7%
+TKT-10013,someone steal my bank account password and now he is transferring all my  money right now,"Money transfer, virtual currency, or money service",Medium,Triage Desk (manual review),GRU,77.5%,Bidirectional LSTM,48.2%,Manual Review Required,2026-10-25 09:37:12
+TKT-10014,someone is stealing my money from my bank account ,"Money transfer, virtual currency, or money service",High,Payments Team,GRU,62.5%,Bidirectional LSTM,56.4%,Automatically Routed,2026-10-25 09:39:00
+TKT-10015,someone is stealing my money from my bank account ,"Money transfer, virtual currency, or money service",High,Payments Team,LSTM,58.0%,Bidirectional LSTM,56.4%,Automatically Routed,2026-10-25 09:39:25
+TKT-10016,my product was damaged,Credit card,High,Triage Desk (manual review),LSTM,25.4%,Bidirectional LSTM,40.3%,Manual Review Required,2026-10-25 11:10:52
+TKT-10017,my account was hacked,Credit reporting or other personal consumer reports,High,Triage Desk (manual review),LSTM,30.7%,Bidirectional LSTM,52.0%,Manual Review Required,2026-10-25 11:12:01
+TKT-10018,my account is not working,Credit reporting or other personal consumer reports,Medium,Triage Desk (manual review),GRU,30.1%,Bidirectional LSTM,38.0%,Manual Review Required,2026-10-25 11:12:37
+TKT-10019,Someone stole my bank account password and transferred my money without permission,"Money transfer, virtual currency, or money service",High,Payments Team,GRU,50.5%,Bidirectional LSTM,79.3%,Automatically Routed,2026-10-25 11:14:30
+TKT-10020,i need to reset my bank account password,"Money transfer, virtual currency, or money service",High,Triage Desk (manual review),GRU,28.6%,Bidirectional LSTM,62.2%,Manual Review Required,2026-10-25 11:15:26
+TKT-10021,"i have problem with my refund, it been 10 days since ive returned the product and i am yet to recieve the refund
+","Money transfer, virtual currency, or money service",Medium,Payments Team,GRU,53.4%,Bidirectional LSTM,69.9%,Automatically Routed,2026-10-27 16:53:43
+TKT-10022,my accoun is hacked plese help,Mortgage,Medium,Triage Desk (manual review),GRU,36.5%,Bidirectional LSTM,56.2%,Manual Review Required,2026-10-27 17:28:45
+TKT-10023,"i ave problem regarding my refund, its been 10 days since i have returned the product and i still have not got the refund for my product",Credit card,Medium,Cards & Payments Team,GRU,66.4%,Bidirectional LSTM,74.4%,Automatically Routed,2026-10-27 17:34:28

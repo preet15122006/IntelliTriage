@@ -1,0 +1,18 @@
+{
+  "dataset": "dataset/cfpb_labeled_3000.csv",
+  "total_samples": 2934,
+  "training_samples": 2053,
+  "validation_samples": 293,
+  "testing_samples": 588,
+  "classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "test_accuracy": 0.6751700680272109,
+  "class_distribution": {
+    "Medium": 2095,
+    "High": 552,
+    "Low": 287
+  }
+}

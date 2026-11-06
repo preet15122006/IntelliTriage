@@ -1,0 +1,31 @@
+{
+  "LSTM": {
+    "accuracy": 0.7217720151269584,
+    "precision": 0.7278014753081079,
+    "recall": 0.7217720151269584,
+    "f1_score": 0.721198205315507,
+    "test_loss": 0.7644987106323242,
+    "training_time_seconds": 147.8,
+    "parameters": 677574,
+    "epochs_run": 8,
+    "final_train_loss": 0.5146734118461609,
+    "final_val_loss": 0.8515434265136719,
+    "final_train_accuracy": 0.8325613737106323,
+    "final_val_accuracy": 0.7282549738883972
+  },
+  "GRU": {
+    "accuracy": 0.7520259319286872,
+    "precision": 0.7539918102419846,
+    "recall": 0.7520259319286872,
+    "f1_score": 0.7524347322060627,
+    "test_loss": 0.7031497359275818,
+    "training_time_seconds": 152.2,
+    "parameters": 669510,
+    "epochs_run": 6,
+    "final_train_loss": 0.4031321704387665,
+    "final_val_loss": 0.8575124740600586,
+    "final_train_accuracy": 0.8629766702651978,
+    "final_val_accuracy": 0.7385197281837463
+  },
+  "best_model": "GRU"
+}

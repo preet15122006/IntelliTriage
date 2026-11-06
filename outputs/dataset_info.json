@@ -1,0 +1,27 @@
+{
+  "total_records": 150000,
+  "records_with_text": 150000,
+  "records_used_after_cleaning": 18507,
+  "all_columns": [
+    "product",
+    "consumer_complaint_narrative"
+  ],
+  "text_column": "consumer_complaint_narrative",
+  "label_column": "product",
+  "num_categories": 6,
+  "class_counts": {
+    "Checking or savings account": 3994,
+    "Credit card": 3856,
+    "Debt collection": 3051,
+    "Credit reporting or other personal consumer reports": 2727,
+    "Money transfer, virtual currency, or money service": 2607,
+    "Mortgage": 2272
+  },
+  "train_samples": 12954,
+  "validation_samples": 1851,
+  "test_samples": 3702,
+  "vocabulary_size_total": 20905,
+  "vocabulary_size_used": 10000,
+  "max_sequence_length": 200,
+  "average_words_per_complaint": 203.7
+}

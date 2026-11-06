@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.vscode/
+.env
+.env.*
+*.tmp
+.DS_Store
+
+dataset/complaints.csv
+dataset/complaints.csv.zip
+dataset/cfpb_labeled_3000.csv
